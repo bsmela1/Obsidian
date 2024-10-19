@@ -12,6 +12,7 @@ Zagadanienia na egzamin, o których mówili prowadzący: pani Staniszewska, pan 
 
 [[Schematy działania]]
 
+jeszcze tutaj dodaje wiersz: Kot jest płaski, mysza krucha, gdy ją złapie, czy to skucha?
 
 
 Koniec notatki.
