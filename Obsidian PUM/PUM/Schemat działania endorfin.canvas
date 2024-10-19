@@ -1,9 +1,9 @@
 {
 	"nodes":[
 		{"id":"b1396344765adda0","type":"file","file":"PUM/Fizjologia.md","x":140,"y":-120,"width":400,"height":320},
-		{"id":"497ede7e3311dcff","type":"text","text":"hello, oto notatka","x":-320,"y":-120,"width":225,"height":100},
-		{"id":"d11ecd27534e6694","type":"file","file":"Media/WIN_20231005_00_56_23_Pro.jpg","x":200,"y":820,"width":373,"height":210},
-		{"id":"2ce59915e18cf05f","type":"file","file":"Media/WIN_20231005_00_56_20_Pro.jpg","x":-388,"y":340,"width":293,"height":165}
+		{"id":"d11ecd27534e6694","type":"file","file":"Media/WIN_20231005_00_56_23_Pro.jpg","x":140,"y":423,"width":373,"height":210},
+		{"id":"2ce59915e18cf05f","type":"file","file":"Media/WIN_20231005_00_56_20_Pro.jpg","x":-388,"y":258,"width":293,"height":165},
+		{"id":"497ede7e3311dcff","type":"text","text":"hello, oto notatka","x":-320,"y":40,"width":225,"height":160}
 	],
 	"edges":[
 		{"id":"92c6fb0d900e2dee","fromNode":"497ede7e3311dcff","fromSide":"right","toNode":"b1396344765adda0","toSide":"left"},

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PUM/PUM.md",
+                "file": "PUM/Egzamin Teoretyczny.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PUM"
+              "title": "Egzamin Teoretyczny"
             }
           },
           {
@@ -172,22 +172,21 @@
   },
   "active": "be27b554ce7246fb",
   "lastOpenFiles": [
+    "PUM/Fizjologia.md",
     "PUM/Schemat działania endorfin.canvas",
     "Schematy działania.md",
-    "PUM/Fizjologia.md",
+    "PUM/Etyka.md",
+    "PUM/Egzamin Teoretyczny.md",
+    "PUM/Egzamin Praktyczny.md",
+    "Pomysły/Do czego mozna uzywac Obsidian.md",
+    "PUM/Ksiazki.md",
+    "PUM/PUM.md",
     "Media/WIN_20231005_00_56_20_Pro.jpg",
     "Media/WIN_20231005_00_56_23_Pro.jpg",
     "Untitled.canvas",
-    "Pomysły/Do czego mozna uzywac Obsidian.md",
     "Pomysły",
     "Media",
     "to.md",
-    "PUM/Egzamin Praktyczny.md",
-    "PUM/Egzamin Teoretyczny.md",
-    "PUM/Etyka.md",
-    "PUM/PUM.md",
-    "PUM/Ksiazki.md",
-    "PUM/PUM.md",
     "Książki.md",
     "Fizjologia",
     "PUM"
