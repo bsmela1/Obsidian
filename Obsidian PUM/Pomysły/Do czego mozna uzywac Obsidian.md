@@ -1,3 +1,0 @@
-- Np gdy robie mape mysli bo jestem rozkojarzony 
-- albo chce zrobic schemat na fizjologie
-- chce zrobic plan dzialania programu do tygrysa
